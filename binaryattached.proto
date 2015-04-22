@@ -1,0 +1,4 @@
+message BinaryAttached {
+    optional string meta = 1;
+    repeated bytes  data = 2;
+}
